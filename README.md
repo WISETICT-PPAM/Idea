@@ -40,6 +40,7 @@
 
 ## 팀 구성
 |역할|이름|e-mail|
+|---|---|---|
 |팀장/데이터 분석|이다혜|dhelee97@gmail.com|
 |데이터 분석|이지민|skanth77@naver.com|
 |데이터 분석|추민지|key0876@naver.com|
