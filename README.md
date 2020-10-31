@@ -10,6 +10,7 @@
 생리대 유해성분 정보 및 실사용 리뷰와 제품별 키워드 제공 서비스
 
 ## 프로젝트 구성도 
+<p align="center"><image src="https://user-images.githubusercontent.com/46590618/97772791-9c352780-1b8d-11eb-8403-75711c1112df.png" width="80%"></p>
 
 
 ## 개발 목적
