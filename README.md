@@ -5,7 +5,7 @@
 생리뷰 : 생리대 리뷰를 대여해드립니다  
 
 
-<image src="https://user-images.githubusercontent.com/46590618/97772625-35fbd500-1b8c-11eb-9ea1-c3f123ba30a0.png" width="80%">
+<image src="https://user-images.githubusercontent.com/46590618/97772625-35fbd500-1b8c-11eb-9ea1-c3f123ba30a0.png" width="80%" align="center">
 
 
 
