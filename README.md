@@ -2,8 +2,12 @@
 ### Personal Pad Adviser for Menstruation
 ---
 ## 프로젝트명
-생리뷰 : 생리대 리뷰를 대여해드립니다
-![image](https://user-images.githubusercontent.com/46590618/97772566-c84fa900-1b8b-11eb-9870-623d92df6554.png)
+생리뷰 : 생리대 리뷰를 대여해드립니다  
+
+
+![image](https://user-images.githubusercontent.com/46590618/97772625-35fbd500-1b8c-11eb-9ea1-c3f123ba30a0.png)
+
+
 
 ## 프로젝트 소개
 생리대 유해성분 정보 및 실사용 리뷰와 제품별 키워드 제공 서비스
