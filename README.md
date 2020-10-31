@@ -5,12 +5,15 @@
 생리뷰 : 생리대 리뷰를 대여해드립니다  
 
 
-![image](https://user-images.githubusercontent.com/46590618/97772625-35fbd500-1b8c-11eb-9ea1-c3f123ba30a0.png)
+![image](https://user-images.githubusercontent.com/46590618/97772625-35fbd500-1b8c-11eb-9ea1-c3f123ba30a0.png =250x)
 
 
 
 ## 프로젝트 소개
 생리대 유해성분 정보 및 실사용 리뷰와 제품별 키워드 제공 서비스
+
+## 프로젝트 구성도 
+
 
 ## 개발 목적
 - 시판되고 있는 생리대의 제품별 유해성분 정보를 제공하여 건강하고 스마트한 생리용품 소비 문화 촉진
