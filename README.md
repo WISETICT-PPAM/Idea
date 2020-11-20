@@ -1,6 +1,7 @@
 # PPAM
 ### Personal Pad Adviser for Menstruation
 ---
+[**CLICK TO SEE DEMO VIDEO**](https://drive.google.com/file/d/1gxrlE7hjSaCBECC9a0bZtmiHtxCvuAyI/view?usp=sharing)
 ## 프로젝트명
 생리뷰 : 생리대 리뷰를 대여해드립니다  
 
